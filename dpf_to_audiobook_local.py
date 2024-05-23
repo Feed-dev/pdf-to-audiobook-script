@@ -47,7 +47,6 @@ def pdf_to_audiobook(pdf_path, audio_output_path, txt_output_path):
     text = extract_text_from_pdf(pdf_path)
     save_text_to_file(text, txt_output_path)
     text_to_speech_pyttsx3(text, audio_output_path)
-    play_audio(audio_output_path)
 
 # Example usage
 pdf_path = "OTOET_PREVIEW_062_October_03_2021.pdf"
