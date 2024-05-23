@@ -2,8 +2,6 @@
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
-from pydub import AudioSegment
-from pydub.playback import play
 
 # Load environment variables from the .env file
 load_dotenv()
