@@ -72,3 +72,6 @@ ehthumbs.db
 
 # Ignore output files
 outputs/
+
+# Ignore chunks
+chunk_audio/
