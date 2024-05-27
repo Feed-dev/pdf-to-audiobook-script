@@ -24,227 +24,269 @@ def split_text(text, chunk_size=CHUNK_SIZE):
 
 # Example text for demonstration
 text = """
-THE TERRYEN WAVE FIELDS
-The illusion of our visible Universe is constructed of regenerated successive waves of predictable phase conjugations.
-Linked in recursive ‘action and reactionary’ moments.
-Caught in a chain of unending events that culminate in
-a symmetrical lattice work of self propagating structures.
-Where each action, moment or quanta of existence is represented by an expanding sphere.
-The concentration of these spheres leaves a recorded message of each and every action and reaction that has ever
-occurred or shall ever occur. Every wave is predictable and
-quantifiable. There are no unknowns in this Universe of
-recorded history. It all comes from the physical manifestation of the life force which was recognized by the ancients
-and is represented geometrically using the symbol called
-“The Flower of Life”.
-Everything that we experience is the result of ‘Effects’, the
-‘Cause’ has remained shrouded in mystery since
-the beginning of Man’s existence and until now
-there has never come to be a truly satisfying answer for ‘Cause’. Allow me to introduce you to the
-“CAUSE” of all visible action and reaction. We have always
-had the freedom to examine the ‘Effects’ without the pitfalls of speculation because we are effects. All the things
-around us are Effects. The enigma associated with the
-Flower of Life pattern that has eluded Mankind for thousands of years is finally unraveled in the Wave Conjugations I am presenting in this book.
-The Super Symmetry that rules our Universe is predictable, reliable and beautiful. The concentric lines of force
-become the very fabric of the Universe. Made up of two
-forces alone, ELECTRICITY and MAGNETISM.
-They are two different sides of the same coin, two separate reactions from a single “CAUSATIVE” action within a
-diverse system.
-On one hand you have centripetal spin, like the tight spin
-of a gold medal ice skater spinning in a north eastern direction that drives the contractive, gravitative force of Nature.
-Rising from the flat surface of the ice, her leg extends
-out like a flag suspended from a flag pole. She pulls her
-leg in closer and her spin increases until she reaches such
-rotational speeds that it looks as if she is almost entirely
-transparent.
-This is spin with such force that Space raps around her as
-she bundles Time and Dimension seamlessly. Rising slowly from the southern inertial plane towards the northern
-apex of a vortex, and the closer to the apex, the center of
-the spin, the faster the spin.
-That is the case with Electricity, it always seeks a higher pressure zone, with a faster and tighter spin. Whereas
-Magnetism, has a completely different appetite. Magnetism, contrary to what most of Mankind has been taught,
-seeks a lower pressure condition. Its prime directive is to
-expand out, radiate, rarefy and disperse that which has
-been collected together into a Mass.
-Just think about it, a magnifying glass does what? Makes
-things appear larger. To magnify something, you increase
-the amount of Space that it occupies. Well, that is exactly
-the work of Radiation/Magnetism.
-If you take a closer look at the Earth's poles, you will see
-where Electricity is funneled into and through the planet.
-What happens to the concentrated Electricity at the core
-of the planet? As the Electricity spins into a state of higher
-pressures, so high a pressure zone that it has to discharge,
-that discharge is Magnetism.
-It explodes from the equator of our planet at tremendous speeds. Being accelerated by the continuous engine
-of electrical contraction taking place at the poles, that is
-soon jettisoned from the equator, heating and expanding
-all Matter in its wake. This is also true of our Sun that contracts electricity at its poles from the Interstellar Plasma
-Currents converting that Electricity into Magnetism at its
-equator, which creates the solar wind that drives our entire solar system.
-All things expand and contract simultaneously.
-What would the math look like that describes this kind of
-geometry? Might this be the geometry of the center of a
-bubble?
-The Pythagoreans explored this line of thought for quite
-some time and through deep meditative, concentrative
-and focused efforts, along with vigorous experimentation
-and tireless application they managed to uncover some
-simple and obvious truths about how our Universe operates as a whole. 
-They began describing many of its underlying functions and dynamics through sympathetic harmonious vibratory mechanics and basic geometry.
-Centuries after Pythagoras’ death, followers of the sect
-would ultimately succumb to the pressures of the general
-populous and acquiesced to the standards and practices of
-the prevailing culture. The dominant elite of this culture
-promoted the use of irrationality in their number systems
-and are single handedly responsible for the many inconsistencies and misunderstandings found in use within physics
-and mathematics today.
-This surrender of their common sense is solely responsible for the mis-education of countless generations of truth
-seekers and curious minds over the last two millennia.
-Nevertheless, the early Pythagoreans held the thought
-that the Dodecahedron was the greatest of all the platonic
-solids. For some reason they felt it was the physical manifestation of Spirit into Form. 
-An invocation of the Creator’s Divine Symmetry and Beauty manifested in the material world.
-The Dodecahedron was considered to be so sacred, that
-according to reports, if someone from the ‘brotherhood’
-mentioned the word “Dodecahedron” outside of their secret meetings, they would be killed on the spot.
-I have discovered this structure in its purist form. It is the
-scaffolding and backbone of the Allshape. A structure that
-encapsulates all of the principals that were sacred to the
-Pythagoreans.
-In fact, it is the structure where All numbers meet and
-become of equal value. (It is the detailed geometric manifestation of the cubed root of one!)
-THE LYNCHPIN
-THE COMMON FACTOR OF ALL THINGS
-If Mankind knew how to multiply this simple equation
-correctly (x * x = 2), the Universe would be completely
-understood in all of its Multi-Dimensional beauty and for
-all of its super symmetrical complexities.
-Touch The Image Below
-To see the Lynchpin Bonding Behaviors.
-In two dimensional analysis, it is a confluence of the
-The AllShape: the general structure of Matter in the Universe.
-Four equal and opposite curved intersecting planes creating an interior and exterior Space.
-Rayleigh–Plesset equation coupled with the Trilling Equation and Henry’s Law. Look them up when you get the time,
-but they all fail to describe true curved Space/Time. Nevertheless, in 3 Dimensional Space/Time the model of the
-Universe can be expressed in this single geometric equation!
-1 ³ = |π|
-when one is given its necessary complement of 3 Dimensions allowing it to expand and contract within.
-This is the neutral condition of all visible Matter. It is the
-reservoir of all zero point energy and the center of a bubble. It predicts the periodic distribution of the elements
-of Matter. In Physics, a quantum or quanta is the smallest
-measurable phenomenon of any Matter involved in an interaction. 
-The Lynchpin is the Lowest Common Denominator of All Matter either seen or unseen.
-When 4 Gyroscopic vortices meet at an equatorial common frame and bond their apices, the north points to
-maximum pressures. The four vortices share a central axis
-rotating in opposing directions. The subsequent structure
-of combined forces is called a Torus.
-The Lynchpin is the internal dimensions of a torus, a dynamo that converts and 
-recycles all energy by reconditioning it through the effects of motion and pressure. 
-Either centripetally in a charging, gravitative state at its concaved
-centers or centrifugally, in a radiating, expanding state,
-discharging where three of its 4 planes meet at a single
-vortex. The Lynchpin is the Universal wave conjugator for
-all things Matter. It is the true currency of the Universal
-flow because it is “the Common Factor” of All Things.
-The Lynchpin is the measurable constitution of a quantum or quanta, the smallest reflection of One and ultimately the collected potential of All Things, which equals the Multi-Verse!
-Each Lynchpin is created as a series of stacked events occurring consecutively under consistent pressure and motion conditions. It is the product of pressure walls made
-from 4 Dimensions of relentless waves of continuous, converting energy moving from high to low potential within
-each system.
-Each stacked AllShape is a small visible portion of a ripple
-of converting energy. Either wrapped into a tight vortex
-at the northern poles of the wave or being dispersed evenly along the southern equatorial plane of the wave. All of
-these dynamics take place between 4 equal and opposite
-gyroscopic forces, moving at various speeds within the
-spectrum of Light. Dividing itself into 3 initial dimensions
-and ultimately expressing those dimensions in twelve concentric circle’s of 5th’s.
-UNIVERSAL MATHEMATICS
-All Things are moving in this Universe of motion, for if One
-Thing was to be still All Things connected to it would have
-to be still. There would be no breathing of anything inside
-the Universe because all things would be dead. There isn’t
-one motionless thing within our Universe. That is what
-the straight line has attempted to represent, the idea of an
-unmoving and unchanging planar existence. An unreality,
-for All Dimension is formed in Motion and All Motion is
-oscillatory and every oscillation is a function of frequency
-and all frequency is periodic and periodic oscillations are
-rhythmic vibrations and all rhythmic vibrations are music
-and Music is Symmetry. As Pythagoras once stated, “Rock
-is nothing but frozen music!”
-It is my sincere hope that this will aide Mankind in our
-journey towards a more conscious understanding of the
-Super Symmetry that underlines All Creation will ultimately lead to our obtaining a symbiotic co-existence with
-our Universe, along with a better appreciation of its Infinite Beauty.
-THE FLOWER OF LIFE AND
-THE GARDEN OF EDEN
-This is where it gets meta-physical or even heretical. It
-would be negligent on my part not to mention the possible
-connection of this work to the very first occurrence of a
-“Flower” or “Tree of life.” in recorded literature. That, as a
-necessary consequence would produce “Fruit” that would
-either contain some key components of life’s essence or
-provide seeds in some form that would create a foundation
-for the continued preservation of Life. Or it could provide
-the key to the geometric conditions that would make all
-life possible and generate the motion and pressure conditions that would make it possible for Creation itself to be
-realized.
-My experience in working with this Flower and meditating upon this figurative Tree has led me to believe that the
-knowledge of the Flower of Life and its properties are the
-seeds that are planted in fertile soil or the hearts of Man.
-If conditions are ripe, then these seeds will grow and allow
-those cultivating these precious seeds to become Wise and
-All Knowing concerning the secrets that are hidden within
-its majestic and glorious petals.
-In the Judean, Christian, and Islamic sacred texts we are
-introduced to one of the most adored and cherished stories that could chronicle Mankind’s desired history. In the
-Judeo/Christian version taken from the first book of the
-Bible named Genesis, we are first exposed to what many
-around the world consider to be Mankind’s first human
-parents.
-The story recounts the creation of the Heavens and the
-Earth along with the creation of all plant and animal life
-upon this planet. In the beginning of the 3rd chapter we
-are introduced to the concept of ‘original sin’ by our fore
-parents Adam and Eve and the story of them being ejected from the lush paradise that was once their home. As
-they are forced into a barren world where they will have to
-struggle in order to gain the very bare necessities of life.
-In chapter 3, verse 24, of that same book, we are introduced to the two Angelic creatures called Cherubim with
-4 wings who were placed in front of the entrance of the
-romanticized epic Garden of Eden in order that they may
-block the way to the “Tree of Life”. That no Man may come
-and take from its fruit and actually live to Time Indefinite.
-What is most interesting to note, is the fact that the “Flower of Life” is often referred to in its initial stages as the
-“Tree of Life”. What is also remarkable, are the comparable
-factors involved in the “Flaming Blade of Sword” that was
-spinning continuously. This fiery sword spinning would
-create the overlapping circles that cause the illusion of the
-appearance of the “Flower of Life” and the mention of the
-sword being on fire or “Flaming” as it were, I don’t think
-that it was in reference to them being "flaming". ((lol))
-I believe, in all seriousness, that it was in reference to the
-appearance of the ‘Flower’ producing a powerful and ever
-brightening light.
-Now all of these things can be interpreted to mean a million and one different 
-things depending upon the inclination of the reader. Nevertheless, not one of the Children
-of Mankind that has come before me in recorded history
-has ever opened the Flower and pulled from it the “Fruit”
-that is Life Giving.
-Because of these Terryen Wave Fields future generations
-will be able to conquer the mediocrity of thought that has
-permeated the ever dull minds of Mankind for the last ten
-thousand years. Along with the truth about the value of
-the number 1 and how it should be calculated.
-Therefore, future generations will with ease be able to
-overcome the hurdles of disease and death and be transformed into truly conscious and very powerful beings.
-It all depends upon one anagram:
-“L.I.F.E.”
-The "L" stands for the word "Life"
-The "E" stands for the word "Ever-Lasting"
-Yet, there are two little letters that stand between those
-two promises, the word:
-“IF”
-Life Everlasting "IF" we learn from the lessons of the past
-and abandon the antiquated and dead works of the past.
+INVISIBLE STATES OF MATTER
+The Tetra-Terryen Wave State is the true tetrahedron (the
+platonic solid representation of this most basic unit of all
+the fundamental functions of Matter failed on a number
+of fronts.) Firstly, any shape representing fundamental
+Universal functions must serve as both a divisible factor
+regarding the rules and conditions of radiative expansion
+and reflect the multiplicative factors that govern the circumstances regarding gravitative contraction which occurs periodically with each polarization of every particle
+or collection of wave/particles that exist in this expressly
+curved condition called Space/Time. As the cosmic clock’s
+pendulum arm swings from a positive electrically charging
+state to a negative magnetically discharging state, the contours of the inertial planes become concave and convex as
+they undergo enormous swings of surface pressures.
+This is a direct result of ‘Light/Matter’ (wave conjugations) whether visible or invisible being subjected to the
+varying pressure and motion conditions that make up the
+fabric of our Universe as each condition fluctuates from
+high potential to low potential. Yet all Matter gracefully
+endures this inconceivable range of extremes. From impossibly high to the unfathomably low pressure conditions
+which permeate and fill the heretofore mistakenly named
+‘empty’ “Vacuum” of Space/Time, the rigid and static
+constitution of the platonic solid’s tetrahedron does not
+allow for either expansion nor contraction of any kind, resulting in a temporal optical illusion, for it lacks the flexibility necessary for continued existence in this Universe
+of constantly changing conditions of contracting and expanding Matter.
+The tetrahedron also fails to satisfy the requirements of
+any shape that represents itself as the primary shape of
+three-dimensional Matter. The need to be congruent with
+all other fundamental shapes. Every visible element must
+be rooted in its relative shape and form. Its residual wave
+functions must give birth to every other visible geometric
+structure. This is the seat of Super Symmetry!
+Hydrogen, the first known element within Man’s limited visible spectrum has always been associated with the
+underlying geometric structure of the tetrahedron. Unfortunately, no one has ever seen a wave function marry
+a straight line or a flat surface. Yet, in order for it to be
+agreeable to All other elements in the Universe, Hydrogen’s atomic geometry must be commensurable to all other wave conjugations and an equilateral triangle does not
+fit that bill. We are talking about the first visible geometric
+form, a structure that All Other shapes within the visible
+Universe will take their queue from. In stark contrast, the
+Tetra-Terryen state has four vertices that are all conditions
+of curved planes which allows for the contraction and expansion of Matter.
+Three hyperparabolic wave conjugations occur with
+each vortex at each vertex, satisfying any condition that
+any 3 Dimensional or Multi-Dimensional waveforms
+may encounter. Whether its Universal purpose is in regard to maintaining a balance swing of the pendulum
+arm or be it to stand alone under lower pressure conditions or being tightly compressed under very high pressure conditions. Even though it participates in many
+electrically charging conditions and their underlying
+geometry, it seems to be primarily purposed for magnetic expression, as shall be demonstrated in future volumes, it is the geometric DNA for all fluid dynamics.
+The Tetra-Terryen State is the common denominator of
+all visible Matter and all of its functions are the result of its
+Universal Super Symmetry.
+This is the condition of the first visible element within
+our periodic table, Hydrogen. Its formation is a direct result of four equal and opposite forces acting upon a single
+position in Space and the resulting crystallized condensate
+that is churned from the overlapping pressure waves we
+call Hydrogen.
+Briefly existing for a relatively short span until the Terryan Wave Fields recede away from each other and the
+pressure conditions under which the condensate (spacial
+disturbance) was created finally normalize.
+Likewise, there must be 4 different rates of acceleration
+and deceleration of the magnetic wave field per dimension
+in the allowance of fluctuations within each given pressure
+condition. For each individual plane or motion condition
+exerts a force on all waves and their individual oscillations.
+As Pythagoras stated, and I've quoted numerous times, “A
+rock is nothing but frozen music” therefore, the nature of
+‘said’ rock be it Igneous, Metamorphic or Sedimentary,
+whether it be in a frozen state, lukewarm or even molten
+state, all of these factors will play an important role in the
+length and magnitude and the speed in which the given
+wave field will oscillate. Therefore, each structure will behave according to the limitations afforded to it by the restrictions of its relative dimension.
+The other revealed electric pressure conditions I call The
+Huntyen State, The Aubreyen State, The Heavenly State,
+and the Mira Light State. Each and every one of them are
+uniquely suited for their respective motion and pressure
+conditions. Keep in mind that all motion and all pressure
+conditions within the Universe have been placed in their
+relative positions for the general and expressed purpose
+of regulating the flow and balance of energy throughout
+the entire Universe. Be it in whatever form that suits the
+motion or pressure condition, either plasma, gas, liquid or
+crystalline solid or of an even more allusive origin. Whatever the case, each and every pressure conditioned state is
+forever locked in its relentless pursuit of accomplishing its
+inescapable and never ending need for equilibrium, while
+maintaining the prerequisite of an unfaltering alignment
+with all Universal Symmetry.
+The illusion of Matter occurs within the wave field. The
+wave field is the product of a series of wave conjugations
+caught within a chain of singular vesica piscis, alternating
+in polarity and pull, stretching and snapping back and
+forth until a line of drops become a stream of droplets,
+and that connects to other droplet streams and the four
+streams become eight and that eight becomes its own pressure condition. This is where the illusion of Matter first appears, the so called Higgs Boson that attracts Matter is the
+occurrence of the Huntyen State, at that pressure condition a cavitation repeats itself inside and out with endless
+ripples of refractive action.
+Once four streams converge, an equalized stream of preconditioned wave conjugations emerges. Having a balanced charge to potentially compliment either magnetic
+or electric conditions, it becomes an all weathered friend.
+Nevertheless, the entirety of Creation is completely hinged
+upon these two fundamental geometries, the Huntyen
+combined with different configurations and arrangements
+of Tetra-Terryens creates every condition of Matter that
+has ever been observed or shall ever be experienced.
+The duality of the wave/particle field has been a sore spot
+in the minds of physicist for quite a number of years. Does
+Light behave as a wave or a particle, or can it be both? That
+has been the question of the ages and finally some truly
+needed Light is being shed upon the subject. When I was
+a boy, the uncertainty regarding the particle/wave duality was pretty much established and accepted. ‘We simply
+didn’t know the answer’ and it was all right, not to know. I
+mean there where many mysteries that eluded the minds
+of great men and women through out the annals of time.
+So, the idea of not knowing the nature of one of the most
+basic systems within the quantum field, how waves and
+particles interact wasn’t a slight to one’s ego. Yet, this is the
+“Electric Age,” an age of Enlightenment and Understanding. Therefore, it is unforgivable for academia to remain in
+the dark concerning these basic fundamentals regarding
+reality. Each one of these individual states of Matter behave as a particle individually and collectively they behave
+as a wave. But make no mistake of it, they are all converging waves. Intersecting and overlapping, expanding and
+contracting, oscillating and integrating from the beginning of Creation, until time indefinite.
+For those wondering at what scale do these Terryen Wave
+Fields occur, the 4 quadrants of the Lynchpin, the place
+where 4 curved planes intersect is the birth place of these
+5 primary Wave conjugations. These occur within the scaffolding of the Lynchpin as a result of the fluctuating inner
+dynamics of the Lynchpin itself and the Lynchpin exists at
+the fractal scale, THE SOURCE! These wave conjugations
+redefines the notion of ‘Quanta’. Which redefines our understanding of the Plank scale for these wave conjugations
+occur at a scale much smaller than Plank. Therefore, the
+second and third generational wave conjugations like the
+Mira State and the Contracting and Expanding Crystalline states occur at a scale and magnitude much smaller
+than the sub atomic scale. These occur within the Invisible
+Matter scale because until now they have been impossible
+to detect let alone to be completely modeled out in All of
+their Glorious Geometry. What I find most surprising is
+that the key to these wave conjugations have always been
+right within the grasp of Man’s hands, if they’d only dissected the Flower of Life and assembled the pieces in curved
+3 Dimensional Space instead of the unreal non-existent
+place called 2d. They would have discovered the underlying geometry that is the source of All visible Matter. 
+If they had only maintained the simple principal of balance
+in their thinking? 1 x 1 would have always equaled a composite number called two. The value of One would have
+always been understood and likewise our species would be
+millions of years more advanced than we currently are.
+This Book is a treatise on the wondrous truths that exist in Multi-Dimensional Universal Geometry. Therefore,
+I have tried to keep the conversation as poignant and as
+brief as possible and have only included the AllShape, the
+Lynchpin, plus 5 primary wave conjugations along with 3
+secondary conjugations that expands into an infinite array
+of geometric symmetry. With the blessings of the Collective Consciousness there will be many more books to come
+with fascinating details that will allow you to peer deeper
+into our Multi-Dimensional Electro/Magnetic Universe.
+I hope that I have shed a little light upon the subject of
+Energy and Matter, and have helped in the search for a
+Grand Unified Understanding of Universal Phenomena.
+What I am sure of is the fact that I have been privileged
+with the blessing of defining the In-Between Spaces, and
+contributing to the conversation regarding the true nature of Space/Time, thanks to our Great Mother and Father who loves the curious soul and cherishes the Children
+Of Light.
+A
+NEW
+BEGINNING
+For the last 6,000 years the Children of Man has wondered
+through the darkened corridors of ignorance in want of
+heart, in dire need of discernment, along with a desperate need to understand how our Universe truly works and
+what is our specific role as a species in its grand evolution.
+We’ve meandered in and out of countless philosophies,
+enumerable religions and a never ending stream of political idealisms in search of the one true path towards a
+sustainable and prosperous existence. Yet, time and time
+again we have been forced to sing dirges of sorrow instead
+of celebratory anthems of congratulations and conquest.
+And again, here we stand, faced with the possibility of extinction due to our inability to responsibly utilize our resources in a sustainable manner, another failed attempt at
+being truly successful Human Beings. (Hue of Man)
+“Had we both world enough and time,” Cried Andrew
+Marvell at some frustrated point in his life cycle during the
+later half of the seventeenth century, possibly lamenting a
+loss of gaining a potential mate. In like manner, the Children of Man have cried out in sheer desperation for a lamp
+for our feet and a light for our road way into the future.
+I believe that the illumination that we have so anxiously
+pursued comes from understanding that the purpose of
+All Created Things in this Universe is to bring BALANCE
+to the two seemingly opposing forces that makes up the
+foundation of All Existence seen and unseen, Universally
+called, “Electricity and Magnetism.” Equilibrium is a necessity if our world is to survive.
+Nevertheless, humanity is a fledgling development in Creation. Finding equilibrium with All Other Living Things
+in this Universe is essential if we are to survive as a species.
+We must first learn to live in balance with All Things or we
+will be crushed out of existence by the collective weight
+and purpose of All things. Whatever is out of balance will
+be either brought into balance through the process of rarefication followed by reconstitution.
+Just as the number One is the accumulated sum of All
+Things combined and consequently the most important
+number of All and from it All other Created things exist.
+Then it follows that All the numbers that are derived from
+the number One have a share in All of its attributes but in
+different ratios. Likewise, All Creating Things in existence
+share the same relative rights in this Creating Universe. All
+Matter is Alive! All Matter breaths, grows, loves, mates, reproduces, peeks in their relative life cycle and slowly begin
+their decay until All that was gathered into One through
+positive electrically charging, centripetal gravitative spin
+may be dispersed into the Many, through negative magnetic, centrifugally discharging radiation. All this happens
+only to be re-gathered together and again re-dispersed until time indefinite. This is the Universal example of breathing in and breathing out, positive inhalation and negative
+exhalation.
+The soul purpose of this book is to provide the Children
+of Man with a taste of what consciousness can offer in
+hopes that they may become The Children of Light, “Enlightened Ones.” Whatever the material may be from
+which you are reading this book, in Man’s present state
+of fleeting moments of consciousness he views that Matter as dead. Yet, if you peer deeply into its texture with an
+electron microscope or even deeper and more clearly with
+your consciousness, you will see that each and every corpuscle that makes up its structure is still polarizing from
+positive to negative.
+Every atom inhales with a positive charge and exhales with
+negative discharge. Everything is Alive, Aware and Consciously sharing the same feelings and desires as that of
+Man, within their own unique Temporal Dimensions and
+Relative Way. Yet, we refuse to recognize and respect their
+Universal given rights, for that would force Man to drastically change our ego driven perceptions regarding our
+Universal neighbors and require a more responsible and
+respectful view towards Co-Existence.
+Everything that we take shall be taken from us and Everything that we give shall be given back to us in exponential ratios. The insight revealed in this book was gained
+through lifetimes full of deep reflection upon existence itself. Along with a profound appreciation for all Creating
+Things. As well as having a deep respect for the Sanctity of
+Life that is in All Things and animates All Created Things.
+There is so much more that the Universe desires to share
+with the Children of Man. Nevertheless, Man must first,
+“Come in to the Light,” as the saying goes and come to fully appreciate and comprehend the meaning of One! After
+this is accomplished, all the secrets of Living Matter and
+the Knowledge that can be gained from living in Harmony
+with Nature will be revealed, but first “Baby Steps!”
+Let us start at the beginning ... 1 x 1 = 2 and 1 x 2 = ?
+Since we have been misled on this and so many other issues
+concerning our universe then there seems to be another
+unanswered question:
+What is the true age of the
+Universe?
+Here's a hint:
+It is much,
+Much, Much Older
+Than you've been led
+To Believe.
+A Note of Encouragement
+Dear World,
+This book is presented to you as a gift. In the hope
+that the truth will set you free! Just as the Sun gifts its
+rays of Light, This book is an offering of Life,
+A New Beginning!
+"And the spirit and the bride keep on saying, “Come!”
+and let anyone hearing say, “Come!” and let anyone
+thirsting come; let anyone who wishes take life’s water
+free." ...Revelation 22:17
+EPILOGUE
+As life would have it, All questions have answers and seeing
+that ALL THINGS are cyclic, All answers would naturally
+loop back to an initial question. I say this out of respect for
+Absolute Truth. If you were to consider the thought that
+One is the accumulation of All Things then, the truth reveals itself in the most ironic ways. One times One equals
+ALL Things because ALL THINGS are the result of
+1 x 1 = x.
+Therefore, philosophically and literally One times One
+would first equal Two and ultimately One times One equals
+ALL THINGS which equals One.
+Nevertheless, as a species we have not evolved enough
+to recognize the value of One. Therefore, how could we
+ever fully appreciate the value of ALL THINGS? I believe
+that we have to understand the consequences of ACTION
+and REACTION before we can begin to understand the
+Universal constant of Oneness. So, there is a deeper and
+a more complete system of Mathematics that awaits Mankind if we can survive long enough to gain the Consciousness necessary for us to be a sustainable species and be
+considered a permanent member of the Universal Family.
 """
 
 # Split the extracted text into chunks
